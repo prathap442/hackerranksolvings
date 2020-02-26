@@ -25,3 +25,20 @@ While coming to the procs the block of the code being assigned to the variable i
   end
 ```
 
+# Until looping is a statement for while not loop
+
+```
+  until false
+    #execute infinite times
+  end
+```
+
+This is the equivalent of 
+
+```
+  while not true
+    #execute the inifinite times
+  end
+```
+
+The above statements both of the hold the same equivalency here 
