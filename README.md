@@ -42,3 +42,22 @@ This is the equivalent of
 ```
 
 The above statements both of the hold the same equivalency here 
+
+# Case Statements
+
+* This is to explain on the statements of the case by programming which is nothing but the switch case checking
+
+* syntax is as shown
+```
+case obj
+  when obj.id>2
+    puts "obj is greater than 2"
+  when obj.id<2
+    puts "obj is lesser than 2"
+  when obj.id == 2
+    puts "obj is greater than 2"
+  else
+    puts "an edge case of the case statement"
+  end
+end
+```
