@@ -17,3 +17,11 @@ While coming to the procs the block of the code being assigned to the variable i
     * p1.call(2)
      this prints out 2 but returns nil
   ```
+# Infinite loop Running
+
+```
+  loop do 
+    # this code exits infinite times till we break out of it.
+  end
+```
+
